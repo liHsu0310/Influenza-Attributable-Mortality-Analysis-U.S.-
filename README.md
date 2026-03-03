@@ -4,8 +4,6 @@ author: "Li Hsu"
 date: "2026-03-03"
 output:
   html_document: default
-  word_document: default
-  pdf_document: default
 ---
 ```{r setup}
 ###Set up
